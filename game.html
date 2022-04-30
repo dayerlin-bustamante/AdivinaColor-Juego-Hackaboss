@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Juego Adivina el Color</title>
+    <!-- FILES -->
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header>
+      <h1><img src="./img/pajaro.gif" alt="logo" />Adivina el Color</h1>
+    </header>
+    <!-- BODY GAME -->
+    <main id="game">
+      <div id="contador">
+        <div>
+          <h2 id="positivo">0</h2>
+        </div>
+        <div>
+          <h2 id="negativo">0</h2>
+        </div>
+      </div>
+      <div id="rgb">
+        <p>
+          Observa el código de color rgb que aparecen abajo y selecciona el
+          color que corresponda
+        </p>
+
+        <h2 id="colorValue"></h2>
+        <h2 id="respuesta"></h2>
+      </div>
+      <div id="colores">
+        <div class="btnColor bien"></div>
+        <div class="btnColor bien"></div>
+        <div class="btnColor bien"></div>
+        <div class="btnColor bien"></div>
+      </div>
+    </main>
+    <!-- SCRIPT -->
+    <script src="./js/src.js"></script>
+    <script src="./js/vistoria.js"></script>
+  </body>
+</html>
