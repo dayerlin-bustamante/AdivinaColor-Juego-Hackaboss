@@ -61,6 +61,7 @@ a {
   background-color: var(--primary-color);
   box-shadow: 0 2px 5px var(--shadow-color);
 }
+
 /* PAGINA PERDISTE */
 #bodyPerdiste {
   display: flex;
@@ -77,6 +78,22 @@ a {
   font-size: 1.3rem;
   color: var(--primary-color);
   text-shadow: 0 1px 1px var(--shadow-color);
+}
+
+/* PAGINA GANASTE */
+
+#bodyGanaste > img {
+  width: 70%;
+  margin-top: 6rem;
+}
+
+#btnSigueme {
+  border: none;
+  margin-bottom: 1.2rem;
+  padding: 0.6rem 2rem;
+  background-color: rgb(41, 41, 179);
+  box-shadow: 0 2px 5px var(--shadow-color);
+  font-size: 0.8rem;
 }
 /* PAGINA DE GAME */
 
@@ -289,6 +306,12 @@ header > h1 > img {
     width: 20%;
   }
 
+  /* PAGINA GANASTE */
+
+  #bodyGanaste > img {
+    width: 40%;
+    margin-top: 2rem;
+  }
   /* GAME */
 
   header > h1 {
