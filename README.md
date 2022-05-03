@@ -20,6 +20,6 @@ developer: [Dayerlin-Bustamante]
 
 Abrir el juego desde el HTML inicio /index.html
 
-## CONFETTI :
+### CONFETTI :
 
 // tomado de https://www.cssscript.com/confetti-falling-animation/#:~:text=Description%3A-,confetti.,HTML5%20canvas%20and%20requestAnimFrame%20API.
