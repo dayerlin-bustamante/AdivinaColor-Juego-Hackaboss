@@ -1,6 +1,6 @@
 ## Proyecto Adivina el Color | PowerCoders / Hackaboss
-![](img/index.png)
-![](img/game.png)
+![Uploading game.png…]()
+![Uploading index.png…]()
 
 Realizado con HTML5 , CSS3 , y JavaScript ES6.
 
