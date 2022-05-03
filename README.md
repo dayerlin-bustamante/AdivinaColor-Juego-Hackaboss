@@ -18,7 +18,7 @@ developer: [Dayerlin-Bustamante]
 
 ## NOTE:
 
-Abrir el juego desde el HTML inicio ![](index.html)
+Abrir el juego desde el HTML inicio ![](/index.html)
 
 ## CONFETTI :
 
