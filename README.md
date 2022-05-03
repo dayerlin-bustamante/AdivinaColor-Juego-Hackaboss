@@ -8,7 +8,7 @@ Realizado con HTML5 , CSS3 , y JavaScript ES6.
 
 developer: [Dayerlin-Bustamante]
 
-- Linkeding: https://www.linkedin.com/in/dayerlin-bustamante-680b52232/
+- Linkedin: https://www.linkedin.com/in/dayerlin-bustamante-680b52232/
 
 - Portafolio Web: https://dayerlin.com/
 
@@ -16,9 +16,9 @@ developer: [Dayerlin-Bustamante]
 
 - Github del Proyecto: https://github.com/dayerlin-bustamante/AdivinaColor-Juego-Hackaboss
 
-## NOTA:
+## NOTE:
 
-Abrir el juego desde el HTML inicio (./index.html)
+Abrir el juego desde el HTML inicio ![](index.html)
 
 ## CONFETTI :
 
